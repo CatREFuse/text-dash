@@ -9,8 +9,9 @@
 		"preview": "live-server --entry-file='livepreview.html'"
 	},
 	"dependencies": {
+		"@frsource/autoresize-textarea": "^1.2.1",
 		"@vue/compiler-sfc": "^3.0.2",
-		"figma-plugin-ds": "^0.1.8"
+		"figma-plugin-ds": "^0.1.9"
 	},
 	"devDependencies": {
 		"@figma/plugin-typings": "^1.18.2",
@@ -26,8 +27,8 @@
 		"ts-loader": "^6.0.2",
 		"typescript": "^4.6.3",
 		"url-loader": "^1.1.2",
-		"vue": "^3.0.2",
-		"vue-loader": "^16.0.0-beta.8",
+		"vue": "^3.2.36",
+		"vue-loader": "^17.0.0",
 		"vue-template-compiler": "^2.6.10",
 		"webpack": "^4.32.2",
 		"webpack-bundle-analyzer": "^4.3.0",
